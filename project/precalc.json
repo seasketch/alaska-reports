@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "geographyId": "eez",
+    "metricId": "area",
+    "classId": "eez-total",
+    "sketchId": null,
+    "groupId": null,
+    "value": 3664742464374.183
+  },
+  {
+    "geographyId": "eez",
+    "metricId": "area",
+    "classId": "priorityAreas-total",
+    "sketchId": null,
+    "groupId": null,
+    "value": 476728802256.08734
+  },
+  {
+    "geographyId": "eez",
+    "metricId": "count",
+    "classId": "eez-total",
+    "sketchId": null,
+    "groupId": null,
+    "value": 2
+  },
+  {
+    "geographyId": "eez",
+    "metricId": "count",
+    "classId": "priorityAreas-total",
+    "sketchId": null,
+    "groupId": null,
+    "value": 16
+  }
+]

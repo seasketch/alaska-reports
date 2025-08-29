@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "metricId": "size",
+    "type": "areaOverlap",
+    "layerId": "nKwnqYqdx",
+    "classes": [
+      {
+        "classId": "eez",
+        "display": "EEZ",
+        "datasourceId": "eez"
+      }
+    ]
+  },
+  {
+    "metricId": "priorityAreas",
+    "type": "areaOverlap",
+    "layerId": "MD8HFrWae",
+    "classes": [
+      {
+        "classId": "priorityAreas",
+        "display": "Priority Areas",
+        "datasourceId": "priorityAreas"
+      }
+    ]
+  }
+]

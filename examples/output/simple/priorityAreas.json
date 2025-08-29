@@ -1,0 +1,15 @@
+{
+  "metrics": [
+    {
+      "geographyId": null,
+      "metricId": "priorityAreas",
+      "classId": "priorityAreas",
+      "sketchId": "117248",
+      "groupId": null,
+      "value": 15310535174.60175,
+      "extra": {
+        "sketchName": "simple"
+      }
+    }
+  ]
+}
