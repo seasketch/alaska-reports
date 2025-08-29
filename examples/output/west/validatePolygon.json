@@ -1,0 +1,67 @@
+{
+  "id": 117250,
+  "bbox": [
+    165.29211,
+    49.657635,
+    176.11543,
+    53.748627
+  ],
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          172.985585141,
+          53.748627796
+        ],
+        [
+          165.844462231,
+          52.517320971
+        ],
+        [
+          165.292115082,
+          49.657635705
+        ],
+        [
+          176.115434321,
+          51.622613423
+        ],
+        [
+          174.987182636,
+          52.63224571
+        ],
+        [
+          172.985585141,
+          53.748627796
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "11982": "west",
+    "id": "117250",
+    "name": "west",
+    "postId": null,
+    "userId": "531",
+    "userSlug": "Abby",
+    "createdAt": "2025-08-29T19:06:16.528561+00:00",
+    "updatedAt": "2025-08-29T19:06:16.528561+00:00",
+    "description": null,
+    "collectionId": null,
+    "isCollection": false,
+    "sharedInForum": false,
+    "sketchClassId": "1760",
+    "userAttributes": [
+      {
+        "label": "Description",
+        "value": null,
+        "exportId": "description",
+        "fieldType": "TextArea",
+        "valueLabel": null,
+        "formElementId": 11983,
+        "alternateLanguages": {}
+      }
+    ]
+  }
+}

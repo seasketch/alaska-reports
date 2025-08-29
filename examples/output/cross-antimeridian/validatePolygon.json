@@ -1,0 +1,63 @@
+{
+  "id": 117249,
+  "bbox": [
+    -186.35855,
+    47.59446,
+    -172.41753,
+    54.70761
+  ],
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -172.417531403,
+          50.172432706
+        ],
+        [
+          -172.864934504,
+          54.707611487
+        ],
+        [
+          -186.35855379,
+          49.624775102
+        ],
+        [
+          -185.460631628,
+          47.594459349
+        ],
+        [
+          -172.417531403,
+          50.172432706
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "11982": "cross-antimeridian",
+    "id": "117249",
+    "name": "cross-antimeridian",
+    "postId": null,
+    "userId": "531",
+    "userSlug": "Abby",
+    "createdAt": "2025-08-29T19:05:52.292324+00:00",
+    "updatedAt": "2025-08-29T19:05:52.292324+00:00",
+    "description": null,
+    "collectionId": null,
+    "isCollection": false,
+    "sharedInForum": false,
+    "sketchClassId": "1760",
+    "userAttributes": [
+      {
+        "label": "Description",
+        "value": null,
+        "exportId": "description",
+        "fieldType": "TextArea",
+        "valueLabel": null,
+        "formElementId": 11983,
+        "alternateLanguages": {}
+      }
+    ]
+  }
+}
