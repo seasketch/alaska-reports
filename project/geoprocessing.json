@@ -20,6 +20,7 @@
   "geoprocessingFunctions": [
     "src/functions/size.ts",
     "src/functions/priorityAreas.ts",
-    "src/functions/gfw.ts"
+    "src/functions/gfw.ts",
+    "src/functions/seaduckHabitat.ts"
   ]
 }

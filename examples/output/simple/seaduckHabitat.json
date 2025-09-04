@@ -1,0 +1,15 @@
+{
+  "metrics": [
+    {
+      "geographyId": null,
+      "metricId": "seaduckHabitat",
+      "classId": "seaduckHabitat",
+      "sketchId": "117248",
+      "groupId": null,
+      "value": 114665922.026407,
+      "extra": {
+        "sketchName": "simple"
+      }
+    }
+  ]
+}

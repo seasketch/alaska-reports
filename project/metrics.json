@@ -34,5 +34,17 @@
         "datasourceId": "gfw2024"
       }
     ]
+  },
+  {
+    "metricId": "seaduckHabitat",
+    "type": "areaOverlap",
+    "layerId": "xy6t9O3Xi",
+    "classes": [
+      {
+        "classId": "seaduckHabitat",
+        "display": "Key Sea Duck Habitat",
+        "datasourceId": "seaduckHabitat"
+      }
+    ]
   }
 ]

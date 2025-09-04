@@ -25,6 +25,14 @@
   },
   {
     "geographyId": "eez",
+    "metricId": "area",
+    "classId": "seaduckHabitat-total",
+    "sketchId": null,
+    "groupId": null,
+    "value": 44094854216.05502
+  },
+  {
+    "geographyId": "eez",
     "metricId": "count",
     "classId": "eez-total",
     "sketchId": null,
@@ -46,6 +54,14 @@
     "sketchId": null,
     "groupId": null,
     "value": 16
+  },
+  {
+    "geographyId": "eez",
+    "metricId": "count",
+    "classId": "seaduckHabitat-total",
+    "sketchId": null,
+    "groupId": null,
+    "value": 170
   },
   {
     "geographyId": "eez",

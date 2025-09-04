@@ -1,0 +1,15 @@
+{
+  "metrics": [
+    {
+      "geographyId": null,
+      "metricId": "seaduckHabitat",
+      "classId": "seaduckHabitat",
+      "sketchId": "117249",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "cross-antimeridian"
+      }
+    }
+  ]
+}
