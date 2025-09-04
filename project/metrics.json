@@ -22,5 +22,17 @@
         "datasourceId": "priorityAreas"
       }
     ]
+  },
+  {
+    "metricId": "gfw",
+    "type": "sumOverlap",
+    "layerId": "yW27JhBLr",
+    "classes": [
+      {
+        "classId": "gfw2024",
+        "display": "Fishing Effort",
+        "datasourceId": "gfw2024"
+      }
+    ]
   }
 ]

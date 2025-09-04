@@ -10,6 +10,14 @@
   {
     "geographyId": "eez",
     "metricId": "area",
+    "classId": "gfw2024-total",
+    "sketchId": null,
+    "groupId": "band-0",
+    "value": 108.1
+  },
+  {
+    "geographyId": "eez",
+    "metricId": "area",
     "classId": "priorityAreas-total",
     "sketchId": null,
     "groupId": null,
@@ -26,9 +34,33 @@
   {
     "geographyId": "eez",
     "metricId": "count",
+    "classId": "gfw2024-total",
+    "sketchId": null,
+    "groupId": "band-0",
+    "value": 45728
+  },
+  {
+    "geographyId": "eez",
+    "metricId": "count",
     "classId": "priorityAreas-total",
     "sketchId": null,
     "groupId": null,
     "value": 16
+  },
+  {
+    "geographyId": "eez",
+    "metricId": "sum",
+    "classId": "gfw2024-total",
+    "sketchId": null,
+    "groupId": "band-0",
+    "value": 321306.942355
+  },
+  {
+    "geographyId": "eez",
+    "metricId": "valid",
+    "classId": "gfw2024-total",
+    "sketchId": null,
+    "groupId": "band-0",
+    "value": 10810
   }
 ]

@@ -35,18 +35,32 @@
     "explodeMulti": true
   },
   {
-    "src": "data/src/AlaskaOceanPriorityAreas.geojson",
-    "layerName": "AlaskaOceanPriorityAreas",
-    "geo_type": "vector",
     "datasourceId": "priorityAreas",
+    "geo_type": "vector",
     "formats": [
       "fgb"
     ],
+    "precalc": true,
+    "layerName": "AlaskaOceanPriorityAreas",
     "classKeys": [],
     "created": "2025-08-29T22:14:21.281Z",
     "lastUpdated": "2025-08-29T22:14:21.281Z",
+    "src": "data/src/AlaskaOceanPriorityAreas.geojson",
     "propertiesToKeep": [],
-    "explodeMulti": true,
+    "explodeMulti": true
+  },
+  {
+    "src": "data/src/gfw2024.tif",
+    "band": 1,
+    "geo_type": "raster",
+    "datasourceId": "gfw2024",
+    "formats": [
+      "tif"
+    ],
+    "created": "2025-09-04T17:16:39.082Z",
+    "lastUpdated": "2025-09-04T17:16:39.082Z",
+    "noDataValue": 999999,
+    "measurementType": "quantitative",
     "precalc": true
   }
 ]

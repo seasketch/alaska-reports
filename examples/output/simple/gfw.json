@@ -1,0 +1,15 @@
+{
+  "metrics": [
+    {
+      "geographyId": null,
+      "metricId": "gfw",
+      "classId": "gfw2024",
+      "sketchId": "117248",
+      "groupId": "band-0",
+      "value": 48344.104011,
+      "extra": {
+        "sketchName": "simple"
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "metrics": [
+    {
+      "geographyId": null,
+      "metricId": "priorityAreas",
+      "classId": "priorityAreas",
+      "sketchId": "117249",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "cross-antimeridian"
+      }
+    }
+  ]
+}

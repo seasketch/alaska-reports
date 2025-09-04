@@ -3,6 +3,7 @@ import Translator from "../components/TranslatorAsync.js";
 import { SketchAttributesCard } from "@seasketch/geoprocessing/client-ui";
 import { Size } from "../components/Size.js";
 import { PriorityAreas } from "../components/PriorityAreas.js";
+import { Gfw } from "../components/Gfw.js";
 
 // Named export loaded by storybook
 export const SimpleReport = () => {
@@ -10,6 +11,7 @@ export const SimpleReport = () => {
     <Translator>
       <Size />
       <PriorityAreas />
+      <Gfw />
       <SketchAttributesCard autoHide />
     </Translator>
   );

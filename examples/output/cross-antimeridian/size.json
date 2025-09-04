@@ -1,0 +1,15 @@
+{
+  "metrics": [
+    {
+      "geographyId": null,
+      "metricId": "size",
+      "classId": "eez",
+      "sketchId": "117249",
+      "groupId": null,
+      "value": 334853037242.3795,
+      "extra": {
+        "sketchName": "cross-antimeridian"
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "metrics": [
+    {
+      "geographyId": null,
+      "metricId": "gfw",
+      "classId": "gfw2024",
+      "sketchId": "117249",
+      "groupId": "band-0",
+      "value": 3571.882494,
+      "extra": {
+        "sketchName": "cross-antimeridian"
+      }
+    }
+  ]
+}
