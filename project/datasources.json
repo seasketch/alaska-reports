@@ -60,22 +60,22 @@
     "band": 1,
     "noDataValue": 999999,
     "created": "2025-09-04T17:16:39.082Z",
-    "lastUpdated": "2025-09-04T17:16:39.082Z",
+    "lastUpdated": "2025-09-04T18:03:14.929Z",
     "src": "data/src/gfw2024.tif"
   },
   {
-    "src": "data/src/seaduck_atlasPolygon.shp",
-    "layerName": "seaduck_atlasPolygon",
-    "geo_type": "vector",
     "datasourceId": "seaduckHabitat",
+    "geo_type": "vector",
     "formats": [
       "fgb"
     ],
+    "precalc": true,
+    "layerName": "seaduck_atlasPolygon",
     "classKeys": [],
     "created": "2025-09-04T17:37:52.777Z",
     "lastUpdated": "2025-09-04T17:37:52.777Z",
+    "src": "data/src/seaduck_atlasPolygon.shp",
     "propertiesToKeep": [],
-    "explodeMulti": true,
-    "precalc": true
+    "explodeMulti": true
   }
 ]
